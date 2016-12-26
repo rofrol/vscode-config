@@ -65,5 +65,7 @@
 
   "explorer.openEditors.visible": 0,
 
-  "window.reopenFolders": "one"
+  "window.reopenFolders": "all",
+
+  "extensions.autoUpdate": true
 }
