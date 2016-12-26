@@ -1,0 +1,69 @@
+// Place your settings in this file to overwrite the default settings
+{
+  "elm.formatOnSave": true,
+  "editor.fontFamily": "Noto Mono", "Consolas, 'Courier New', monospace",
+  "editor.fontSize": 14,
+      // The activity bar background color (dark theme).
+  "theme.dark.activitybar.background.color": "#1B2B34",
+
+  // The activity bar background color (light theme).
+  "theme.light.activitybar.background.color": "#2c2c2c",
+
+  // The file tree background color (dark theme).
+  "theme.dark.filetree.background.color": "#1B2B34",
+
+  // The file tree background color (light theme).
+  "theme.light.filetree.background.color": "#f3f3f3",
+
+  // The tabs background color (dark theme).
+  "theme.dark.tabs.background.color": "#1B2B34",
+
+  // The tabs background color (light theme).
+  "theme.light.tabs.background.color": "#ececec",
+
+  // The tabs border color (dark theme).
+  "theme.dark.tabs.border.color": "#65737E",
+
+  // The tabs border color (light theme).
+  "theme.light.tabs.border.color": "#ddd",
+
+  // The tabs toolbox background color (top right bar, dark theme).
+  "theme.dark.tabs.toolbox.background.color": "#1B2B34",
+
+  // The tabs toolbox background color (top right bar, light theme).
+  "theme.light.tabs.toolbox.background.color": "#f3f3f3",
+
+  // The status bar background color.
+  "theme.statusbar.background.color": "#343D46",
+
+  // The status bar background color (no project).
+  "theme.statusbar.backgroundRaw.color": "#68217a",
+
+  // The status bar background color (debug mode).
+  "theme.statusbar.backgroundDebug.color": "#c63",
+
+  // The status bar text color.
+  "theme.statusbar.text.color": "#fff",
+
+  // Display or hide the status bar smiley face.
+  "theme.statusbar.smiley.enabled": true,
+
+  // Enable or disable the VS code integrity check ([Unsupported] mode).
+  "theme.integrity.enabled": false,
+
+  "workbench.editor.enablePreview": false,
+
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+
+  "terminal.integrated.shell.windows": "bash.exe",
+
+  "workbench.activityBar.visible": false,
+
+  "workbench.editor.showTabCloseButton": false,
+
+  "files.eol": "\n",
+
+  "explorer.openEditors.visible": 0,
+
+  "window.reopenFolders": "one"
+}
