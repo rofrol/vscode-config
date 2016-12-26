@@ -1,0 +1,12 @@
+bcmarinacci.theme-material
+bentx.vscode-custom-theme
+dbaeumer.vscode-eslint
+donjayamanne.githistory
+EditorConfig.EditorConfig
+gerane.Theme-OceanicNext
+kentor.theme-oceanic-next-no-italics
+lihui.vs-color-picker
+patbenatar.advanced-new-file
+pranaygp.vscode-css-peek
+Rubymaniac.vscode-html-to-elm
+sbrink.elm
